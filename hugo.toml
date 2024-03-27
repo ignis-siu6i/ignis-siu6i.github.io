@@ -1,3 +1,4 @@
 baseURL = 'https://ignis-siu6i.github.io/'
 languageCode = 'en-us'
 title = 'GitHub Pages of ignis.siu6i'
+theme = 'github-style'
